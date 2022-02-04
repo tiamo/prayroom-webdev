@@ -1,514 +1,514 @@
 {
   "vite/modulepreload-polyfill": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/plugins/body-class.ts": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/plugins/nprogress.ts": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "vite/preload-helper": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/qr-code.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/logo.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/appstore.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/googleplay.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/social/fb.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/images/social/ig.svg": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/config.ts": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/pages/index.vue": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "../../../../../../@vite-plugin-pages/generated-pages": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "plugin-vue:export-helper": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/layouts/default.vue": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "../../../../../../@vite-plugin-vue-layouts/generated-layouts": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/App.vue": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/assets/styles/main.scss": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "src/main.ts": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "index.html": [
-    "/assets/qr-code.847d68d8.svg",
-    "/assets/logo.736f032f.svg",
-    "/assets/appstore.86b8d43d.svg",
-    "/assets/googleplay.75ff36c4.svg",
-    "/assets/fb.09f41598.svg",
-    "/assets/ig.2186ee3e.svg",
-    "/assets/main.63cd62d1.jpg",
-    "/assets/qr.37161e60.svg"
+    "/prayroom-webdev/assets/qr-code.847d68d8.svg",
+    "/prayroom-webdev/assets/logo.736f032f.svg",
+    "/prayroom-webdev/assets/appstore.86b8d43d.svg",
+    "/prayroom-webdev/assets/googleplay.75ff36c4.svg",
+    "/prayroom-webdev/assets/fb.09f41598.svg",
+    "/prayroom-webdev/assets/ig.2186ee3e.svg",
+    "/prayroom-webdev/assets/main.63cd62d1.jpg",
+    "/prayroom-webdev/assets/qr.37161e60.svg"
   ],
   "\u0000commonjsHelpers.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/nprogress/nprogress.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/vue-router/dist/vue-router.esm-bundler.js": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/vite-ssg/dist/chunks/state.mjs": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
-    "/assets/vendor.83407743.js"
+    "/prayroom-webdev/assets/vendor.83407743.js"
   ],
   "src/pages/[...all].vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/_...all_.ed643e7f.js"
+    "/prayroom-webdev/assets/_...all_.ed643e7f.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_.ed643e7f.js"
+    "/prayroom-webdev/assets/_...all_.ed643e7f.js"
   ],
   "src/pages/about.md": [
-    "/assets/about.9716a6dd.js"
+    "/prayroom-webdev/assets/about.9716a6dd.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/index.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/browser.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/version.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/trim.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/trim.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/version.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/variable-replacement.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/variable-replacement.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/user-agent.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/memory-cache.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/memory-cache.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/user-agent.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/browsers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/browser_engine.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/fixtures/available-browsers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/fixtures/mobile-only-browsers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/browser.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/mobile-apps.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/mobile_apps.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/mobile-apps.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/feed-readers.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/feed_readers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/feed-readers.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/libraries.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/libraries.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/libraries.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/media-players.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/mediaplayers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/media-players.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/client/personal-information-managers.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/client/pim.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/personal-information-managers.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/client/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/index.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/cameras.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/cameras.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/cameras.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/mobiles.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/mobiles.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/model.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/model.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/mobiles.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/televisions.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/televisions.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/televisions.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/cars.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/car_browsers.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/cars.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/consoles.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/consoles.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/consoles.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/notebooks.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/notebooks.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/notebooks.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/device/portable-media-players.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/device/portable_media_player.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/portable-media-players.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/device/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/operating-system/index.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/oss.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/operating-system/fixtures/operating-system.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/operating-system/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/parsers/vendor-fragment/index.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/vendorfragments.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/vendor-fragment/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/fixtures/regexes/bots.json": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/parsers/bot/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "\u0000/home/runner/work/prayroom-web/prayroom-web/build/node_modules/device-detector-js/dist/utils/version-compare.js?commonjs-exports": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/utils/version-compare.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "node_modules/device-detector-js/dist/index.js": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "src/pages/app.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "src/pages/app.vue": [
-    "/assets/app.e6bc7ee4.js"
+    "/prayroom-webdev/assets/app.f954c7c8.js"
   ],
   "src/pages/privacy.md": [
-    "/assets/privacy.41826ebc.js"
+    "/prayroom-webdev/assets/privacy.41826ebc.js"
   ],
   "src/pages/qr.vue": [
-    "/assets/qr.aea2cec4.js"
+    "/prayroom-webdev/assets/qr.a0bdba59.js"
   ],
   "src/pages/terms.md": [
-    "/assets/terms.884a645b.js"
+    "/prayroom-webdev/assets/terms.884a645b.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.9f7b5f7a.js"
+    "/prayroom-webdev/assets/404.9f7b5f7a.js"
   ]
 }
