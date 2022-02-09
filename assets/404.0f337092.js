@@ -1,0 +1,1 @@
+import{d as o,b as t,o as n,c as r,f as s,e as a}from"./vendor.eaf7313b.js";const c=a("h1",null,"404",-1),u=o({setup(_){return(l,p)=>{const e=t("router-view");return n(),r("main",null,[c,s(e)])}}});export{u as default};
