@@ -1,0 +1,1 @@
+import{_ as e,a as s}from"./app.5fe4e762.js";import{o,e as t,f as r}from"./vendor.bcc98ffb.js";const c={},a={class:"qr-container"},_=r("img",{src:s,alt:"",width:"400"},null,-1),n=[_];function i(f,d){return o(),t("div",a,n)}var p=e(c,[["render",i]]);export{p as default};
