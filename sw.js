@@ -91,61 +91,61 @@ define(['./workbox-28c9dbd7'], (function (workbox) { 'use strict';
 
   workbox.precacheAndRoute([{
     "url": "about.html",
-    "revision": "91ff5189f4766e8bcd631204aec5aa32"
+    "revision": "26bf87adccf5e0ed998c11b8ed40f629"
   }, {
     "url": "app.html",
-    "revision": "cfd8c82588c6f5f137e0d6ca9311df9e"
+    "revision": "eff5ca0febf1affb3f082677c0a4613c"
   }, {
-    "url": "assets/_...all_.90e620f2.js",
+    "url": "assets/_...all_.3394cfda.js",
     "revision": null
   }, {
-    "url": "assets/404.b2d00db3.js",
+    "url": "assets/404.054039d1.js",
     "revision": null
   }, {
-    "url": "assets/about.6478ac76.js",
+    "url": "assets/about.fd442865.js",
     "revision": null
   }, {
-    "url": "assets/app.4089f419.css",
+    "url": "assets/app.37d77b91.css",
     "revision": null
   }, {
-    "url": "assets/app.56740b54.js",
+    "url": "assets/app.4dfe1df6.js",
     "revision": null
   }, {
-    "url": "assets/app.cb11d8cf.js",
+    "url": "assets/app.a7e7fe48.js",
     "revision": null
   }, {
-    "url": "assets/markdown.7dd7a4da.js",
+    "url": "assets/markdown.6218fd70.js",
     "revision": null
   }, {
-    "url": "assets/page.a32a7ad0.js",
+    "url": "assets/page.49a1dd07.js",
     "revision": null
   }, {
-    "url": "assets/privacy.229026f6.js",
+    "url": "assets/privacy.22c6311c.js",
     "revision": null
   }, {
-    "url": "assets/qr.4d4f9719.js",
+    "url": "assets/qr.a363ae5a.js",
     "revision": null
   }, {
-    "url": "assets/terms.d7ffdfbf.js",
+    "url": "assets/terms.77dcc477.js",
     "revision": null
   }, {
-    "url": "assets/vendor.d13a666c.js",
+    "url": "assets/vendor.70fbe0f6.js",
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "789a79283ce36fbf6a9d7b3ed41bbb13"
+    "revision": "a22d6dacb2d5f933efd88cc31dce99fd"
   }, {
     "url": "privacy.html",
-    "revision": "e6b6a4c13704acc2c48f479f306eba6f"
+    "revision": "c7e7a4232bf190934f1352f7f32c86a9"
   }, {
     "url": "qr.html",
-    "revision": "9b0b224b7e34a44aee84b5c7db174b93"
+    "revision": "51db33aefddbf9fdc677ff675f1e9e8a"
   }, {
     "url": "registerSW.js",
     "revision": "1c8f14f08e1294a88f09c58b2b6f0474"
   }, {
     "url": "terms.html",
-    "revision": "677a8f59e28e28e4859ac0204dd382f6"
+    "revision": "6d515e626b8583b84949e0ad2990fc5f"
   }, {
     "url": "robots.txt",
     "revision": "5e0bd1c281a62a380d7a948085bfe2d1"
