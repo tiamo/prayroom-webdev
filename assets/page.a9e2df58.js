@@ -1,0 +1,1 @@
+import{_ as o}from"./app.ac520b32.js";import{e as r,h as t,c,o as n}from"./vendor.0f3d6166.js";const s={},a={class:"container"};function _(p,i){const e=c("router-view");return n(),r("div",a,[t(e)])}var m=o(s,[["render",_]]);export{m as default};
