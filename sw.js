@@ -91,10 +91,10 @@ define(['./workbox-28c9dbd7'], (function (workbox) { 'use strict';
 
   workbox.precacheAndRoute([{
     "url": "about.html",
-    "revision": "26bf87adccf5e0ed998c11b8ed40f629"
+    "revision": "92f7f4a0bb079fba69e51a8671732a21"
   }, {
     "url": "app.html",
-    "revision": "eff5ca0febf1affb3f082677c0a4613c"
+    "revision": "db757f5fc53926c325a2dfc589c03a5d"
   }, {
     "url": "assets/_...all_.3394cfda.js",
     "revision": null
@@ -105,10 +105,10 @@ define(['./workbox-28c9dbd7'], (function (workbox) { 'use strict';
     "url": "assets/about.fd442865.js",
     "revision": null
   }, {
-    "url": "assets/app.37d77b91.css",
+    "url": "assets/app.4dfe1df6.js",
     "revision": null
   }, {
-    "url": "assets/app.4dfe1df6.js",
+    "url": "assets/app.52a6391c.css",
     "revision": null
   }, {
     "url": "assets/app.a7e7fe48.js",
@@ -133,19 +133,19 @@ define(['./workbox-28c9dbd7'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "index.html",
-    "revision": "a22d6dacb2d5f933efd88cc31dce99fd"
+    "revision": "43f0be66cc1dc91c0f159aaf881d6197"
   }, {
     "url": "privacy.html",
-    "revision": "c7e7a4232bf190934f1352f7f32c86a9"
+    "revision": "a80e8c9b3934c39f074a460ef3c1b236"
   }, {
     "url": "qr.html",
-    "revision": "51db33aefddbf9fdc677ff675f1e9e8a"
+    "revision": "c7c578be0ec02f226559356fbf73c96b"
   }, {
     "url": "registerSW.js",
     "revision": "1c8f14f08e1294a88f09c58b2b6f0474"
   }, {
     "url": "terms.html",
-    "revision": "6d515e626b8583b84949e0ad2990fc5f"
+    "revision": "171c408dcd30ef98aa109838e2a39a25"
   }, {
     "url": "robots.txt",
     "revision": "5e0bd1c281a62a380d7a948085bfe2d1"
